@@ -12,7 +12,7 @@ package ejercicio3tema4ed;
 public class Bus extends VehiculoTransporte
 {
     /**
-     * constructor por defecto de la clase bus
+     * Constructor por defecto de la clase bus
      */
     public Bus() 
     {
