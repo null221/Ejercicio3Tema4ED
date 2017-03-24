@@ -16,7 +16,9 @@ public class Ejercicio3Tema4ED {
      */
     public static void main(String[] args) 
     {
-        
+        Alquiler a = new Alquiler(2);
+        a.importeTotal();
+        a.mostrarDatos();
         
     }
     
